@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>http://dev.guidewe.com/export/HEAD/branches/tourist/v1.1/builds/android/Guidewe-dev.ipa</string>
+          <string>http://dev.guidewe.com/export/HEAD/branches/tourist/v1.1/builds/ios/Guidewe-dev.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
